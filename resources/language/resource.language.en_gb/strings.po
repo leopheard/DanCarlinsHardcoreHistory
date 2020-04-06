@@ -1,0 +1,33 @@
+# Kodi Media Center language file
+# Addon Provider: leopheard
+msgid ""
+msgstr ""
+"Project-Id-Version: Kodi Addons\n"
+"Report-Msgid-Bugs-To: leopheard@gmail.com\n"
+"POT-Creation-Date: 2019-08-12 HO:MI+ZONE\n"
+"PO-Revision-Date: 2019-08-12 HO:MI+ZONE\n"
+"Last-Translator: Kodi Translation Team\n"
+"Language-Team: English (http://www.transifex.com/projects/p/xbmc-addons/language/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#30001"
+msgid "Dan Carlin's Hardcore History"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Dan Carlin's Hardcore History: Addendum"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Common Sense With Dan Carlin"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Wrath Of The Khans Series"
+msgstr ""
+
+# empty string with id 32003
